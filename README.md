@@ -1,11 +1,15 @@
-<h1 align="center">Hi, I'm Basant 👋</h1>
+<h1 align="center">Hi, I'm Basant Bansal 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%7C+Full-Stack+Developer;Building+smart+products+and+cool+experiments;Always+learning%2C+shipping%2C+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+AI+Enthusiast;Open+to+internship+opportunities;Building+practical+projects+with+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I like turning ideas into real products — from AI-powered experiences to full-stack web apps and creative developer tools.
+  I’m a developer focused on building useful products, learning by doing, and turning ideas into working software.
+</p>
+
+<p align="center">
+  <strong>Currently looking for internship opportunities</strong> in software development, AI, and full-stack engineering.
 </p>
 
 <div align="center">
@@ -21,43 +25,53 @@
 
 ## About Me
 
-- 💡 Interested in AI, machine learning, and building intelligent tools
-- 🌐 Comfortable building full-stack products and user experiences
-- 🧠 Exploring research-driven AI workflows and practical applications
-- 🖥️ Also into Linux customization, terminal aesthetics, and developer productivity
-- 🚀 Always learning, experimenting, and shipping projects
+- 💡 Passionate about software engineering, AI workflows, and building practical products
+- 🌐 Interested in full-stack development, user experience, and scalable application design
+- 🧠 Exploring machine learning, AI-powered tools, and real-world use cases
+- 🛠️ Enjoy building side projects that combine creativity, logic, and problem-solving
+- 🚀 Looking to grow through internship experience, mentorship, and real-world engineering challenges
+
+---
+
+## What I Build
+
+- AI-powered assistant and research-oriented tools
+- Full-stack web apps and product experiences
+- Frontend interfaces with thoughtful UX and clean architecture
+- Backend systems, APIs, and business logic
+- Terminal / Linux customization workflows for developer productivity
 
 ---
 
 ## Featured Projects
 
-### AI & Machine Learning
-- [AI-Research-Assistant](https://github.com/basantbansal/AI-Research-Assistant) — Research-inspired assistant project exploring AI workflows
-- [deep-learning-projects](https://github.com/basantbansal/deep-learning-projects) — Deep learning experiments and learning projects
-- [model_meter](https://github.com/basantbansal/model_meter) — Tools and experimentation related to models
+### AI & ML
+- [AI-Research-Assistant](https://github.com/basantbansal/AI-Research-Assistant) — Research-inspired AI assistant project
+- [deep-learning-projects](https://github.com/basantbansal/deep-learning-projects) — Deep learning exercises and experiments
+- [model_meter](https://github.com/basantbansal/model_meter) — Project exploring model-related experimentation
 
-### Full-Stack Web Apps
-- [Ecommerce_website_frontend](https://github.com/basantbansal/Ecommerce_website_frontend) — Frontend for an e-commerce experience
-- [Ecommerce_website_backend](https://github.com/basantbansal/Ecommerce_website_backend) — Backend APIs and commerce logic
-- [Ecommerce_website_monorepo](https://github.com/basantbansal/Ecommerce_website_monorepo) — Monorepo-based full-stack project structure
+### Full-Stack Development
+- [Ecommerce_website_frontend](https://github.com/basantbansal/Ecommerce_website_frontend) — Frontend experience for an e-commerce platform
+- [Ecommerce_website_backend](https://github.com/basantbansal/Ecommerce_website_backend) — APIs and backend logic for the project
+- [Ecommerce_website_monorepo](https://github.com/basantbansal/Ecommerce_website_monorepo) — Monorepo architecture for the full stack
 
-### Fun & Developer Experience
-- [ben10-terminal](https://github.com/basantbansal/ben10-terminal) — Terminal theme and Linux customization
-- [hyprlock-samurai](https://github.com/basantbansal/hyprlock-samurai) — Samurai-inspired Hyprlock setup
-- [flappy-bird-game](https://github.com/basantbansal/flappy-bird-game) — Classic browser game built with HTML, CSS, and JavaScript
+### Creative & Developer Tools
+- [ben10-terminal](https://github.com/basantbansal/ben10-terminal) — Terminal customization and Linux theme project
+- [hyprlock-samurai](https://github.com/basantbansal/hyprlock-samurai) — Samurai-inspired Linux lock screen config
+- [flappy-bird-game](https://github.com/basantbansal/flappy-bird-game) — Browser game built with HTML, CSS, and JavaScript
 
 ### Portfolio & UI Work
 - [Portfolio](https://github.com/basantbansal/Portfolio) — Personal portfolio website
-- [launchpad](https://github.com/basantbansal/launchpad) — Dashboard-style frontend project
+- [launchpad](https://github.com/basantbansal/launchpad) — Dashboard-style frontend concept project
 
 ---
 
 ## Current Focus
 
-- 🤖 AI agents and intelligent workflows
-- ⚡ Full-stack product development
-- 🧩 Clean, scalable frontend + backend architecture
-- 🛠️ Exploring tools that improve developer experience
+- 🎯 Securing a software engineering internship
+- 🤖 AI and practical ML applications
+- ⚡ Full-stack development and product-building
+- 🧩 Writing clean code, learning fast, and shipping meaningful projects
 
 ---
 
@@ -75,7 +89,23 @@
 
 ## Connect
 
-- 🌐 Portfolio: Add your portfolio URL
-- 💼 LinkedIn: Add your LinkedIn profile
-- 📧 Email: Add your email
+- 🌐 Portfolio: https://portfolio-theta-five-tz0auun8g4.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/basant-bansal-22066036b/?isSelfProfile=true
+- 📧 Email: itsbasanthere@gmail.com
 - 🧑‍💻 GitHub: https://github.com/basantbansal
+
+<p align="center">
+  <a href="https://portfolio-theta-five-tz0auun8g4.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/basant-bansal-22066036b/?isSelfProfile=true" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:itsbasanthere@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to internship opportunities and collaborative engineering challenges.</i>
+</p>
